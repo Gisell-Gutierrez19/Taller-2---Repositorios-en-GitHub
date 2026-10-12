@@ -245,3 +245,4 @@ def update_output_div(date, hour, proy):
 if __name__ == "__main__":
     app.run(debug=True)
 # Probando ramas en Git
+# Sincronizando con repositorio remoto en GitHub
